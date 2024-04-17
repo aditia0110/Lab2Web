@@ -80,9 +80,5 @@ Berikut hasil program yang akan muncul sebelum diinput dan sesudah diinput :
 
 ![hasil1](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_05_29%20PM.png)
 
-![hasi2](./img/Lab2Web%20-%20Google%20Chrome%203_17_2024%2011_06_05%20PM.png)
 
 Selesai terima kasih semoga bermanfaat.
-
-Jika ada yang ditanyakan silahkan tanyakan ke email berikut :
-<adamdwimaulana2605@gmail.com>
